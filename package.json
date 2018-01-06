@@ -1,0 +1,21 @@
+{
+  "name": "libnpm-resolve-package-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "aproba": "^1.2.0",
+    "bluebird": "^3.5.1"
+  },
+  "devDependencies": {
+    "npm-package-arg": "^6.0.0",
+    "pacote": "^7.0.2",
+    "standard": "^10.0.3"
+  }
+}

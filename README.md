@@ -16,7 +16,7 @@ will be reused when they are available.
 ## resolvePackageTree(deps, fetchManifestCB) → Promise
 ## resolvePackageTree(deps, existingTree, fetchManifestCB) → Promise
 
-```
+```javascript
 const resolvePackageTree = require('libnpm-resolve-package-tree')
 
 const npa = require('npm-package-arg')
